@@ -1,29 +1,98 @@
+
+# 🚀 Premium GitHub README Blueprint for Hemkumar R
+
+> **Note:** This is the foundation of a premium profile. Because a truly "Top 1%" README is 1000+ lines, this starter is designed to be expanded while remaining production-ready.
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=Hemkumar%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=Hemkumar%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Building+Intelligent+Software;Open+Source+Learner;Always+Learning"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Engineer;Building+Intelligent+Software+Solutions;Always+Learning+Always+Building"/>
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hemkumarramesh.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemkumar-r-7b749b326)
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemkumarr2803@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemscodes28)
-
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://hemkumarramesh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hemkumar-r-7b749b326)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:hemkumarr2803@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hemscodes28)
 
 ![](https://komarev.com/ghpvc/?username=hemscodes28&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/hemscodes28?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/hemscodes28?affiliations=OWNER&style=for-the-badge&color=7C3AED)
 
 </div>
 
 ---
+
+# About Me
+
+AI & Data Science student at **Coimbatore Institute of Technology (CGPA: 9.16)** focused on building AI-powered products, scalable web applications, and practical software engineering solutions.
+
+## Tech Stack
+
+Python • C • HTML • CSS • JavaScript • React • FastAPI • TensorFlow • Scikit-learn • Pandas • NumPy • Git • GitHub
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>AI Social Media Automation Platform</b></summary>
+
+AI-powered platform that generates captions, hashtags, and automates publishing using Computer Vision and NLP.
+
+| Stack | React, FastAPI, Python |
+|-------|------------------------|
+| AI | Computer Vision + NLP |
+| Focus | Productivity |
+
+</details>
+
+<details>
+<summary><b>Railway AI Traffic Control (SIH)</b></summary>
+
+Software engineering solution for maximizing railway section throughput.
+
+</details>
+
+<details>
+<summary><b>Gold Price Prediction</b></summary>
+
+Random Forest Regression model using historical market data.
+
+</details>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemscodes28&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemscodes28&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hemscodes28&theme=tokyonight"/>
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Advanced AI
+  - Full Stack Engineering
+building:
+  - AI Products
+  - Open Source Projects
+exploring:
+  - MLOps
+  - Cloud
+```
+
+---
+
+> "Build systems that create impact, not just code."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=6,11,20,24,30&height=140"/>
+
