@@ -3,35 +3,41 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=HEMKUMAR%20R&fontSize=60&fontColor=D6C7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full%20Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B79CFF&center=true&vCenter=true&width=650&lines=Building+intelligent%2C+data-driven+systems;AI+%2F+ML+%E2%80%A2+Full+Stack+%E2%80%A2+Product+Engineering;Turning+real-world+problems+into+shipped+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B79CFF&center=true&vCenter=true&width=700&lines=Building+intelligent%2C+data-driven+systems;AI+%2F+ML+%E2%80%A2+Full+Stack+%E2%80%A2+Product+Engineering;Turning+real-world+problems+into+shipped+code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CGPA-9.16%2F10-6C3FC5?style=flat-square&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20DS-6C3FC5?style=flat-square&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/📍-Coimbatore,%20India-6C3FC5?style=flat-square&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/CGPA-9.16%2F10-8A5CF6?style=for-the-badge&labelColor=0D0B1A"/>
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20DS-8A5CF6?style=for-the-badge&labelColor=0D0B1A"/>
+<img src="https://img.shields.io/badge/Coimbatore%2C%20India-8A5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0B1A"/>
 
 <br/><br/>
 
-<a href="https://hemkumarramesh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.linkedin.com/in/hemkumar-r-7b749b326"><img src="https://img.shields.io/badge/LinkedIn-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:hemkumarr2803@gmail.com"><img src="https://img.shields.io/badge/Email-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/hemscodes28"><img src="https://img.shields.io/badge/GitHub-8A5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://hemkumarramesh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="https://www.linkedin.com/in/hemkumar-r-7b749b326"><img src="https://img.shields.io/badge/LinkedIn-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="mailto:hemkumarr2803@gmail.com"><img src="https://img.shields.io/badge/Email-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0B1A"/></a>
+<a href="https://github.com/hemscodes28"><img src="https://img.shields.io/badge/GitHub-8A5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1A"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hemscodes28&style=flat-square&color=6c3fc5&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/hemscodes28?style=flat-square&color=6c3fc5&labelColor=1a1a2e&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/hemscodes28?style=flat-square&color=6c3fc5&labelColor=1a1a2e&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=hemscodes28&style=for-the-badge&color=8A5CF6&labelColor=0D0B1A&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/hemscodes28?style=for-the-badge&color=8A5CF6&labelColor=0D0B1A&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/hemscodes28?style=for-the-badge&color=8A5CF6&labelColor=0D0B1A&label=STARS"/>
 
 </div>
 
 <br/>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 🪶 About Me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=About%20Me&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>The person behind the code</i></sub>
+
+</div>
 
 ```yaml
 role: "AI & Data Science Student · Software Engineer in the making"
@@ -69,9 +75,15 @@ hackathon, or shipping a QR-based check-in system for a live 24-hour event.
 </tr>
 </table>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## ⚙️ Tech Stack
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Tech%20Stack&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Tools I build with</i></sub>
+
+</div>
 
 <div align="center">
 
@@ -103,9 +115,15 @@ hackathon, or shipping a QR-based check-in system for a live 24-hour event.
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 🧠 AI / ML Expertise
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=AI%20/%20ML%20Expertise&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Where I go deep</i></sub>
+
+</div>
 
 <div align="center">
 
@@ -120,9 +138,15 @@ hackathon, or shipping a QR-based check-in system for a live 24-hour event.
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 🚀 Featured Projects
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Featured%20Projects&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>End-to-end systems, shipped</i></sub>
+
+</div>
 
 <details open>
 <summary><b>🩻 Cervical Spine X-Ray Classification & Localization</b></summary>
@@ -253,9 +277,15 @@ automating the full loop from raw image to scheduled, platform-ready post.
 
 </details>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 💼 Experience & Responsibilities
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Experience%20&%20Responsibilities&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Roles I've taken on</i></sub>
+
+</div>
 
 **Head of Editorial Team · Swachh Bharat Club**
 `Coimbatore Institute of Technology`
@@ -287,9 +317,15 @@ Coordinated career development initiatives and technology tool exploration for s
 Led teams, facilitating collaboration and discipline among members.
 - **Skills:** `Leadership` `Team Management`
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 🏆 Achievements
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Achievements&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Milestones along the way</i></sub>
+
+</div>
 
 <div align="center">
 
@@ -302,9 +338,15 @@ Led teams, facilitating collaboration and discipline among members.
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 📜 Certifications
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Certifications&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Verified learning</i></sub>
+
+</div>
 
 <div align="center">
 
@@ -316,9 +358,15 @@ Led teams, facilitating collaboration and discipline among members.
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 📊 GitHub Analytics
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>The numbers behind the commits</i></sub>
+
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hemscodes28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B79CFF&icon_color=8A5CF6&text_color=C9C9E8&count_private=true" width="49%"/>
@@ -329,33 +377,57 @@ Led teams, facilitating collaboration and discipline among members.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemscodes28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B79CFF&text_color=C9C9E8" width="60%"/>
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 🏅 GitHub Trophies
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=GitHub%20Trophies&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Collected along the way</i></sub>
+
+</div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hemscodes28&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 📈 Contribution Activity
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Contribution%20Activity&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Consistency over time</i></sub>
+
+</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemscodes28&theme=react-dark&hide_border=true&bg_color=0D1117&color=B79CFF&line=8A5CF6&point=D6C7FF"/>
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 🐍 Contribution Snake
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Contribution%20Snake&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Eating through the grid</i></sub>
+
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/hemscodes28/hemscodes28/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 🎯 Current Focus
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Current%20Focus&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>What's on my desk right now</i></sub>
+
+</div>
 
 ```yaml
 learning:
@@ -374,9 +446,15 @@ open_to:
   - "Hackathon Collaborations"
 ```
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
-## 📬 Connect With Me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f5e&height=80&section=header&text=Connect%20With%20Me&fontSize=28&fontColor=D6C7FF&fontAlignY=45" width="100%"/>
+
+<sub><i>Let's build something together</i></sub>
+
+</div>
 
 <div align="center">
 
@@ -387,7 +465,7 @@ open_to:
 
 </div>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
 
 <div align="center">
 
