@@ -369,12 +369,16 @@ Led teams, facilitating collaboration and discipline among members.
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hemscodes28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B79CFF&icon_color=8A5CF6&text_color=C9C9E8&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemscodes28&theme=radical&hide_border=true&background=0D1117&stroke=8A5CF6&ring=8A5CF6&fire=B79CFF&currStreakLabel=B79CFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hemscodes28&show_icons=true&theme=radical&hide_border=false&border_color=8A5CF6&border_radius=12&bg_color=0D1117&title_color=B79CFF&icon_color=8A5CF6&text_color=C9C9E8&count_private=true&cache_seconds=86400" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=hemscodes28&theme=radical&hide_border=false&border=8A5CF6&border_radius=12&background=0D1117&stroke=8A5CF6&ring=8A5CF6&fire=B79CFF&currStreakLabel=B79CFF" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemscodes28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B79CFF&text_color=C9C9E8" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemscodes28&layout=compact&theme=radical&hide_border=false&border_color=8A5CF6&border_radius=12&bg_color=0D1117&title_color=B79CFF&text_color=C9C9E8&cache_seconds=86400" width="60%"/>
+</div>
+
+<div align="center">
+<sub><i>Widgets render live on GitHub once this file lives at github.com/hemscodes28/hemscodes28 — if a card shows a broken icon, it's almost always the free public stats service being rate-limited, not this file; refresh after a few minutes.</i></sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
@@ -388,7 +392,7 @@ Led teams, facilitating collaboration and discipline among members.
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hemscodes28&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hemscodes28&theme=radical&no-frame=false&column=4&margin-w=10&margin-h=10&row=2"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
@@ -417,6 +421,10 @@ Led teams, facilitating collaboration and discipline among members.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/hemscodes28/hemscodes28/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<div align="center">
+<sub><i>This animates once the included GitHub Action (.github/workflows/snake.yml) runs for the first time — see setup note below.</i></sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5CF6,100:302B63&height=3&width=100%"/>
